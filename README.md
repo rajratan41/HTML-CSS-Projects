@@ -11,5 +11,6 @@
 - [Developer Landing Page](https://github.com/rajratan41/project-9)
 - [Interior Design Landing Page](https://github.com/rajratan41/project-10)
 - [Hosting Landing Page](https://github.com/rajratan41/project-11)
+- [Business Landing Page](https://github.com/rajratan41/project-12)
 
 

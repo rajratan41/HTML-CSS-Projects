@@ -6,5 +6,6 @@
 - [Crypto Landing Page](https://github.com/rajratan41/project-5)
 - [SEO Landing Page](https://github.com/rajratan41/project-4)
 - [Plant Landing Page](https://github.com/rajratan41/project-6)
+- [Product Landing Page](https://github.com/rajratan41/project-7)
 
 
